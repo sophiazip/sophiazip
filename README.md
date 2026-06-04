@@ -16,7 +16,7 @@
 
 ## ☁️ About Me
 
-I'm a **20-year-old software engineering student from Brazil**, currently a **Cadet at [42-SP](https://42sp.org.br/)**.
+I'm a **18-year-old software engineering student from Brazil**, currently a **Cadet at [42-SP](https://42sp.org.br/)**.
 
 My current focus is on building a strong technical foundation for the **data field**, combining software engineering fundamentals with **Python, SQL, automation, AI, databases and data processing**.
 
