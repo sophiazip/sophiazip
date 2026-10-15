@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ciproterona&label=Profile%20views&color=yellowgreen&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ciproterona&label=Profile%20views&color=yellowgreen&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
