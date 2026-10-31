@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Sophia.zip! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧</h1>
 
 <p align="center">
-  <strong>Fullstack Developer in Progress · Aspiring Product Engineer · 42-SP Cadet</strong>
+  <strong>Aspiring Game Developer & Systems Engineer · 42-SP Cadet</strong>
 </p>
 
 <p align="center">
-  Building digital products from idea to implementation, with a focus on software engineering, user experience, and solving real-world problems.
+  Building game mechanics, graphics tools, and low-level algorithms with a passion for interactive systems.
 </p>
 
 <p align="center">
@@ -16,27 +16,27 @@
 
 ## ☁️ About Me
 
-I'm a software engineering student from Brazil, currently a Cadet at [42-SP](https://42sp.org.br/).
+I'm a Software Engineering cadet at **42 São Paulo**, currently advancing through the Common Core with a direct focus on unlocking the **Gamedev specialization track**.
 
-I'm interested in **Fullstack Development and Product Engineering** — building complete digital products by combining technical implementation, thoughtful design, and practical problem-solving.
+My goal is to understand game engineering from the bare metal up — leveraging low-level memory management, data structures, linear algebra, and pathfinding algorithms to build efficient interactive experiences.
 
-My goal is to understand the entire product development process: from identifying a problem and designing a solution to building, testing, deploying, and improving the final product.
+- 🕹️ **Focus:** Game programming, graphics algorithms, and interactive system architecture.
+- ⚙️ **Core Strengths:** Low-level optimization (C/C++), memory safety, algorithmic problem-solving, and visual tools.
+- 🎯 **Current Goal:** Mastering core computer science fundamentals at 42 while prototyping visual projects with C++ and graphicals api.
 
-Through my experience at 42-SP, I'm developing a strong foundation in **C, algorithms, memory management, Unix systems, debugging, and low-level programming**. These fundamentals help me approach software development with a deeper understanding of how systems work.
+---
 
-I'm especially interested in:
+## 🚀 Featured Projects
 
-- Fullstack web development
-- Backend architecture and API development
-- Frontend development and user experience
-- Database design and data modeling
-- Product thinking and problem discovery
-- Software architecture and maintainable code
-- Testing, debugging, and code quality
-- Automation and developer tooling
-- Deployment, cloud infrastructure, and DevOps fundamentals
+### 🧩 [A-maze-ing](https://github.com/sophiazip)
+**Python · BFS Pathfinding · Algorithm Visualization**
+* Interactive maze generator and pathfinding engine utilizing Breadth-First Search (BFS) for optimal route discovery.
+* Features hexadecimal matrix serialization, automated validation logic, and terminal-based visual UI.
 
-I value projects that go beyond writing code: understanding the problem, making thoughtful technical decisions, and delivering something genuinely useful.
+### 🔄 [push_swap](https://github.com/sophiazip)
+**C · Stack Manipulation · Algorithmic Efficiency**
+* Low-level data sorting engine constrained by strict instruction sets and memory boundaries.
+* Designed custom chunking and radix sorting logic to achieve minimal time complexity and execution overhead.
 
 ---
 
@@ -45,101 +45,42 @@ I value projects that go beyond writing code: understanding the problem, making 
 <table align="center">
   <tr>
     <th>Languages</th>
-    <th>Backend & APIs</th>
-    <th>Frontend</th>
-    <th>Databases & Tools</th>
+    <th>Graphics & Multimedia</th>
+    <th>Algorithms & Systems</th>
+    <th>Dev Tools & Environment</th>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=black" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/REST%20APIs-222222?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Backend%20Development-333333?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Business%20Logic-444444?style=flat-square" />
+      <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/2D_Graphics-222222?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/CLI_Visualizers-333333?style=flat-square" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Responsive%20Design-333333?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/UI%2FUX-555555?style=flat-square" />
+      <img src="https://img.shields.io/badge/Pathfinding-4169E1?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Data_Structures-336791?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Memory_Management-007ACC?style=flat-square" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Valgrind-000000?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Make-4EAA25?style=flat-square&logo=gnu&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📌 What I'm Working On
-
-| Area | Focus | Technologies |
-|---|---|---|
-| Software Engineering | Algorithms, memory management, Unix systems, and problem-solving | `C` `Shell` `Makefile` |
-| Fullstack Development | Building complete applications with frontend and backend components | `HTML` `CSS` `TS/JS` |
-| Backend Development | Business logic, API design, and application architecture | `Python` `REST APIs` |
-| Databases | Relational modeling, SQL queries, and data persistence | `SQL` `PostgreSQL` |
-| Product Engineering | Understanding user needs, defining solutions, and iterating on features | `Product Thinking` `UX` |
-| Developer Tools | Version control, scripting, and efficient development workflows | `Git` `GitHub` `Linux` |
-
----
-
-## 🧭 Current Goal
-
-My goal is to become a **Fullstack Developer with a Product Engineering mindset** — someone who can understand a problem, design a solution, and turn it into a working, maintainable product.
-
-I'm focusing on developing the skills needed to:
-
-- Build end-to-end web applications.
-- Design and implement backend services and APIs.
-- Create intuitive, responsive user interfaces.
-- Model databases and manage application data.
-- Write clean, maintainable, and testable code.
-- Understand software architecture and system design.
-- Deploy applications and learn about production environments.
-- Make technical decisions based on user needs and product goals.
-
-My learning roadmap:
+## 🗺️ Roadmap & Specialization Track
 
 ```txt
-Software Engineering Fundamentals
-        ↓
-Frontend Development
-        ↓
-Backend Development & APIs
-        ↓
-Databases & Data Modeling
-        ↓
-Fullstack Applications
-        ↓
-Testing & Software Architecture
-        ↓
-Deployment & Cloud Fundamentals
-        ↓
-Product Engineering
-````
-
----
-
-## 💡 My Philosophy
-
-I believe good software engineering is about more than making code work.
-
-It's about understanding the problem, choosing the right solution, building with care, and continuously improving the product based on real needs.
-
-I'm here to learn, build, experiment, and turn ideas into reality — one project at a time.
-
----
-
-<p align="center">
-  <i>Learning by building. Growing through iteration. Creating with purpose. ✨</i>
-</p>
+[Current] 42 Common Core (C, Unix Systems, Python, OOP, Algorithms & Memory Optimization)
+    ↓
+Prototyping Game Mechanics & Visual Systems (C++ / OpenGL/Vulkan)
+    ↓
+[Target] 42 Gamedev Specialization, Graphics Programming, Game Engines & 3D Animation)
