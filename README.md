@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Sophia.zip! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧</h1>
 
 <p align="center">
-  <strong>Aspiring Game Developer & Systems Engineer · 42-SP Cadet</strong>
-</p>
-
-<p align="center">
-  Building game mechanics, graphics tools, and low-level algorithms with a passion for interactive systems.
+  <strong>Fullstack Developer · 42-SP Cadet · Building web products @ SOLVR.</strong>
 </p>
 
 <p align="center">
@@ -16,71 +12,75 @@
 
 ## ☁️ About Me
 
-I'm a Software Engineering cadet at **42 São Paulo**, currently advancing through the Common Core with a direct focus on unlocking the **Gamedev specialization track**.
+I'm a software engineering student from Brazil, currently studying at [42-SP](https://42sp.org.br/).
 
-My goal is to understand game engineering from the bare metal up — leveraging low-level memory management, data structures, linear algebra, and pathfinding algorithms to build efficient interactive experiences.
+Most of my days are split between two worlds: digging into low-level fundamentals at 42 — writing **C**, managing memory manually, and living in the **Unix** terminal — and building fullstack web applications with **Python, TypeScript, and PostgreSQL**.
 
-- 🕹️ **Focus:** Game programming, graphics algorithms, and interactive system architecture.
-- ⚙️ **Core Strengths:** Low-level optimization (C/C++), memory safety, algorithmic problem-solving, and visual tools.
-- 🎯 **Current Goal:** Mastering core computer science fundamentals at 42 while prototyping visual projects with C++ and graphicals api.
+I care a lot about the product side of engineering. Writing code is only half the job, the interesting part is figuring out what actually needs to be built, keeping the architecture simple, and shipping something people enjoy using.
 
----
+Outside of 42, I run **[SOLVR.](https://github.com/solvragency)**, an independent web development studio where I design, build, and ship websites and web applications for real clients. Working directly with clients has taught me how to translate messy requirements into clean, functional products.
 
-## 🚀 Featured Projects
-
-### 🧩 [A-maze-ing](https://github.com/sophiazip)
-**Python · BFS Pathfinding · Algorithm Visualization**
-* Interactive maze generator and pathfinding engine utilizing Breadth-First Search (BFS) for optimal route discovery.
-* Features hexadecimal matrix serialization, automated validation logic, and terminal-based visual UI.
-
-### 🔄 [push_swap](https://github.com/sophiazip)
-**C · Stack Manipulation · Algorithmic Efficiency**
-* Low-level data sorting engine constrained by strict instruction sets and memory boundaries.
-* Designed custom chunking and radix sorting logic to achieve minimal time complexity and execution overhead.
+Right now, I'm focused on:
+- Strengthening my foundations in algorithms, C, and Unix systems
+- Designing clean REST APIs and relational databases
+- Building end-to-end web apps with an eye for usability and clean interfaces
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Stack & Tools
 
 <table align="center">
   <tr>
     <th>Languages</th>
-    <th>Graphics & Multimedia</th>
-    <th>Algorithms & Systems</th>
-    <th>Dev Tools & Environment</th>
+    <th>Web & Data</th>
+    <th>Environment & Tools</th>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/2D_Graphics-222222?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/CLI_Visualizers-333333?style=flat-square" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Pathfinding-4169E1?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Data_Structures-336791?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Memory_Management-007ACC?style=flat-square" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/REST%20APIs-222222?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Valgrind-000000?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Make-4EAA25?style=flat-square&logo=gnu&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🗺️ Roadmap & Specialization Track
+## 📌 What I'm Working On
+
+| Area | What I'm doing | Tools |
+|---|---|---|
+| **Systems & Core CS** | Algorithms, memory management, and Unix internals at 42-SP | `C` `Shell` `Makefile` |
+| **Backend & Data** | API design, business logic, and relational data modeling | `Python` `PostgreSQL` `SQL` |
+| **Frontend & Product** | Responsive interfaces, user flows, and turning specs into working apps | `Next.js`, `TypeScript` `HTML` `CSS` |
+
+---
+
+## 🧭 Where I'm Heading
+
+I want to work at the intersection of **Fullstack Engineering and Product** — someone who can take a rough problem, model the data, build the backend and interface, and iterate based on real usage.
 
 ```txt
-[Current] 42 Common Core (C, Unix Systems, Python, OOP, Algorithms & Memory Optimization)
-    ↓
-Prototyping Game Mechanics & Visual Systems (C++ / OpenGL/Vulkan)
-    ↓
-[Target] 42 Gamedev Specialization, Graphics Programming, Game Engines & 3D Animation)
+Low-Level & CS Fundamentals (C, Unix, Algorithms)
+        ↓
+Backend, APIs & Relational Databases
+        ↓
+Frontend & User Experience
+        ↓
+End-to-End Product Engineering
